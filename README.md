@@ -1,4 +1,4 @@
-## Hello Everyone! 👋
+## Hello Everyone! 👋 <img src="https://komarev.com/ghpvc/?username={paxtonbacon}&abbreviated=true" />
 I'm Paxton Bacon.
 > It's a good day for me.
 <!--
