@@ -1,8 +1,7 @@
-## Hello Everyone! 👋
-
+## Hello Everyone! 👋 
 [![Hello Friends](https://komarev.com/ghpvc/?username=paxtonbacon&color=yellow&style=for-the-badge&label=HELLO+FRIENDS&abbreviated=true)](https://github.com/paxtonbacon)
 
-> It's a good day for me. ☀️
+> It's a good day for me. ☀️ And May you be happy everyday!
 
 ---
 
@@ -35,41 +34,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paxtonbacon&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxtonbacon&layout=compact&theme=radical&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paxtonbacon&theme=radical" alt="streak stats" />
-</p>
-
----
-
-### 🏆 Featured Projects
-
-Here are some of my notable repositories – feel free to explore and contribute!
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**awesome-tool**](https://github.com/paxtonbacon/awesome-tool) | A CLI utility for automating daily dev tasks | Rust, Clap |
-| [**react-dashboard**](https://github.com/paxtonbacon/react-dashboard) | Real-time analytics dashboard with live data | React, D3, Socket.io |
-| [**node-api-boilerplate**](https://github.com/paxtonbacon/node-api-boilerplate) | Production-ready REST API starter with JWT & Docker | Node.js, Express, MongoDB |
-
-*(Replace with your actual projects or remove this section)*
-
----
-
-### 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paxtonbacon&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" />
-</p>
 
 ---
 
