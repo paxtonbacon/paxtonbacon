@@ -1,16 +1,87 @@
-## Hello Everyone! 👋 ![](https://komarev.com/ghpvc/?username=paxtonbacon&color=yellow&style=for-the-badge&label=HELLO+FRIENDS&abbreviated=true)
-> It's a good day for me.
-<!--
-**paxtonbacon/paxtonbacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hello Everyone! 👋
 
-Here are some ideas to get you started:
+[![Hello Friends](https://komarev.com/ghpvc/?username=paxtonbacon&color=yellow&style=for-the-badge&label=HELLO+FRIENDS&abbreviated=true)](https://github.com/paxtonbacon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> It's a good day for me. ☀️
+
+---
+
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **open-source projects** and **full-stack web development**  
+- 🌱 I’m currently learning **Rust** and **cloud-native architecture**  
+- 👯 I’m looking to collaborate on **innovative web apps** and **developer tooling**  
+- 🤔 I’m looking for help with **performance optimization** and **system design**  
+- 💬 Ask me about **JavaScript, Python, React, Node.js, or DevOps**  
+- 📫 How to reach me: [paxtonbacon@example.com](mailto:paxtonbacon@example.com) *(replace with your real email)*  
+- 😄 Pronouns: he/him  
+- ⚡ Fun fact: I once debugged a production issue at 3 AM and found a missing semicolon 🥲
+
+---
+
+### 🛠️ Tech Stack
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=paxtonbacon&show_icons=true&theme=radical&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paxtonbacon&layout=compact&theme=radical&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paxtonbacon&theme=radical" alt="streak stats" />
+</p>
+
+---
+
+### 🏆 Featured Projects
+
+Here are some of my notable repositories – feel free to explore and contribute!
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [**awesome-tool**](https://github.com/paxtonbacon/awesome-tool) | A CLI utility for automating daily dev tasks | Rust, Clap |
+| [**react-dashboard**](https://github.com/paxtonbacon/react-dashboard) | Real-time analytics dashboard with live data | React, D3, Socket.io |
+| [**node-api-boilerplate**](https://github.com/paxtonbacon/node-api-boilerplate) | Production-ready REST API starter with JWT & Docker | Node.js, Express, MongoDB |
+
+*(Replace with your actual projects or remove this section)*
+
+---
+
+### 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=paxtonbacon&theme=react-dark&bg_color=20232a&hide_border=true" width="90%" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+I'm always open to interesting conversations and collaboration. Reach out to me on:
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paxtonbacon)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paxtonbacon)
+[![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/paxtonbacon)
+[![Personal Website](https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white)](https://paxtonbacon.dev)
+
+---
+
+⭐️ **Thanks for stopping by!** If you like what you see, feel free to star some repos or follow me. Have a great day! 🚀
