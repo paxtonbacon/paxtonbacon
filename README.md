@@ -1,4 +1,4 @@
-## Hello Everyone! 👋 ![](https://komarev.com/ghpvc/?username=paxtonbacon)
+## Hello Everyone! 👋 ![](https://komarev.com/ghpvc/?username=paxtonbacon&color=yellow&style=for-the-badge&label=HELLO+FRIENDS&abbreviated=true)
 > It's a good day for me.
 <!--
 **paxtonbacon/paxtonbacon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
