@@ -1,5 +1,4 @@
-## Hello Everyone! 👋
- ![Visitors](https://api.visitorbadge.io/api/visitors?path=paxtonbacon&label=Hello%20Friends&countColor=%23ffa500&style=flat-square)
+## Hello Everyone! 👋 ![Visitors](https://api.visitorbadge.io/api/visitors?path=paxtonbacon&label=Hello%20Friends&countColor=%23ffa500&style=flat-square)
 > It's a good day for me. ☀️ And May you be happy everyday
 
 
@@ -8,12 +7,11 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  <!-- 用 PostgreSQL 代替通用 SQL -->
-![Verilog](https://img.shields.io/badge/-Verilog-00599C?style=flat-square)  <!-- 无官方图标，不设 logo -->
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
+![Verilog](https://img.shields.io/badge/-Verilog-00599C?style=flat-square) 
 ![LaTeX/Markdown](https://img.shields.io/badge/-LaTeX%2FMarkdown-008080?style=flat-square&logo=latex&logoColor=white)  <!-- 只用 LaTeX 图标 -->
 
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -40,6 +38,5 @@
 I'm always open to interesting conversations and collaboration. Reach out to me on:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/paxtonbacon)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/paxtonbacon)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/paxtonbacon)
 [![Personal Website](https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white)](https://paxtonbacon.dev)
