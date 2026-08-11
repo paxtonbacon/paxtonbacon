@@ -3,8 +3,6 @@
 
 > It's a good day for me. ☀️ And May you be happy everyday!
 
----
-
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -36,8 +34,6 @@
 ![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
 ![腾讯云](https://img.shields.io/badge/-%E8%85%BE%E8%AE%AF%E4%BA%91-0052D9?style=flat-square)  <!-- 无对应图标，去掉 logo -->
 ![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-
----
 
 ### 📫 Let's Connect
 
