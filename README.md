@@ -5,35 +5,37 @@
 
 ---
 
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **open-source projects** and **full-stack web development**  
-- 🌱 I’m currently learning **Rust** and **cloud-native architecture**  
-- 👯 I’m looking to collaborate on **innovative web apps** and **developer tooling**  
-- 🤔 I’m looking for help with **performance optimization** and **system design**  
-- 💬 Ask me about **JavaScript, Python, React, Node.js, or DevOps**  
-- 📫 How to reach me: [paxtonbacon@example.com](mailto:paxtonbacon@example.com) *(replace with your real email)*  
-- 😄 Pronouns: he/him  
-- ⚡ Fun fact: I once debugged a production issue at 3 AM and found a missing semicolon 🥲
-
----
-
 ### 🛠️ Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+**📌 Programming Languages**  
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/-HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)  <!-- 用 PostgreSQL 的徽章做示意 -->
+![Verilog](https://img.shields.io/badge/-Verilog-00599C?style=flat-square)
+![LaTeX/Markdown](https://img.shields.io/badge/-LaTeX%2FMarkdown-008080?style=flat-square&logo=latex&logoColor=white)
+
+**🛠️ Systems & Tools**  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub CI/CD](https://img.shields.io/badge/-GitHub%20CI%2FCD-181717?style=flat-square&logo=githubactions&logoColor=white)
+![Vivado](https://img.shields.io/badge/-Vivado-FF6B00?style=flat-square)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Claude Code](https://img.shields.io/badge/-Claude%20Code-000000?style=flat-square)
+![微信开发者工具](https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E5%BC%80%E5%8F%91%E8%80%85%E5%B7%A5%E5%85%B7-07C160?style=flat-square&logo=wechat&logoColor=white)
+
+**🧩 Platforms & Frameworks**  
+![微信云开发](https://img.shields.io/badge/-%E5%BE%AE%E4%BF%A1%E4%BA%91%E5%BC%80%E5%8F%91-07C160?style=flat-square&logo=wechat&logoColor=white)
+![AutoDL](https://img.shields.io/badge/-AutoDL-005A9C?style=flat-square)
+![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)
+![腾讯云](https://img.shields.io/badge/-%E8%85%BE%E8%AE%AF%E4%BA%91-0052D9?style=flat-square&logo=tencentqq&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/-ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
@@ -46,6 +48,3 @@ I'm always open to interesting conversations and collaboration. Reach out to me 
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/paxtonbacon)
 [![Personal Website](https://img.shields.io/badge/-Portfolio-24292e?style=for-the-badge&logo=vercel&logoColor=white)](https://paxtonbacon.dev)
 
----
-
-⭐️ **Thanks for stopping by!** If you like what you see, feel free to star some repos or follow me. Have a great day! 🚀
