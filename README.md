@@ -1,4 +1,5 @@
-## Hello Everyone! 👋 ![Visitors](https://api.visitorbadge.io/api/visitors?path=paxtonbacon&label=Hello%20Friends&countColor=%23ffa500&style=flat-square)
+## Hello Everyone! 👋
+ ![Visitors](https://api.visitorbadge.io/api/visitors?path=paxtonbacon&label=Hello%20Friends&countColor=%23ffa500&style=flat-square)
 > It's a good day for me. ☀️ And May you be happy everyday
 
 
